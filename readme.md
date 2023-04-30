@@ -16,7 +16,6 @@ To install the project, follow these steps:
 Clone the repository:
 
 `git clone https://github.com/inabijon/Guessing-Game-API.git `
-Navigate to the project directory: cd guessing-number-api
 
 install dependencies
 
